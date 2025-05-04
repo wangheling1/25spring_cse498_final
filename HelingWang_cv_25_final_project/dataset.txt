@@ -1,0 +1,11 @@
+## Dataset Links
+
+The following are three dataset files in `.mat` format stored on Google Drive:
+
+- [Dataset 1](https://drive.google.com/file/d/1ax1hxxH4SLKwjckrWsAsNOzLJgBv0rqv/view?usp=drive_link)
+- [Dataset 2](https://drive.google.com/file/d/13cvtpq0OvFwCaMymlEvoQwYlLE88ZRuc/view?usp=drive_link)
+- [Dataset 3](https://drive.google.com/file/d/1-QBZAR6JjR7yLpFO7xErDD8KuMug924h/view?usp=drive_link)
+
+These are `.mat` files that can be read using `h5py`.  
+You can find relevant loading and processing code in the notebook:  
+**`cse498_final_test2 (1).ipynb`**
